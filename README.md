@@ -5,3 +5,5 @@ Foo-Lette is a basic application designed to help users solve the never ending q
 Users will need to create an user id and log in to the app. Once in they will simply hit the big green button and have their chosen restraunt displayed.
 
 There are many ideas as how we could grow this simple application such as setting in specific paramaters so restraunts consumers want to avoid don't appear. Storing user preferances and favorite restraunts to make a "Favorites Foo-Lette" and much much more to enhance the user experience.
+
+Try it out here: https://foo-lette.herokuapp.com/
